@@ -74,10 +74,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UmaMahiii&show_icons=true&theme=radical" alt="Uma's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=UmaMahiii&theme=radical" alt="Uma's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=UmaMahiii&theme=radical" alt="Uma's GitHub streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaMahiii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 
 ## 🌐 Connect With Me
