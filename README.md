@@ -69,14 +69,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmaMahiii&show_icons=true&theme=radical" alt="Uma's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=UmaMahiii&theme=radical" alt="Uma's GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaMahiii&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20%7C%20SRE-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Primary%20Cloud-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loves-Automation-success?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Practicing-CI%2FCD-informational?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building-Cloud%20Native%20Projects-0A66C2?style=for-the-badge" />
 </p>
 
 
